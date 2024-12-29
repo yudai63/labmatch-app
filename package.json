@@ -1,0 +1,18 @@
+{
+  "name": "labmatch-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "serve": "netlify functions:serve",
+    "dev":"vite",
+    "build":"vite build",
+    "preview":"vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "netlify-cli": "^17.38.1"
+  }
+}
